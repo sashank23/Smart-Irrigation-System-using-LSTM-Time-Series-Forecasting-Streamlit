@@ -1,7 +1,7 @@
 
 ---
 
-# 🌱 IoT-Based Precision Irrigation System using LSTM
+# 🌱 Smart Irrigation System using LSTM | Time-Series Forecasting, Streamlit
 
 ### 🔮 Smart Farming Automation Using AI & IoT
 
